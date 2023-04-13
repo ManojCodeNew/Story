@@ -67,6 +67,7 @@
     padding-right: 0px,6.6px;
     /* text-align: center; */
     align-items: center;
+    flex-direction: row;
 }
 .li{
     padding-right: 2rem;
